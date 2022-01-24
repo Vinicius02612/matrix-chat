@@ -1,0 +1,30 @@
+{
+  "name": "matrix-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinicius02612/matrix-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinicius02612/matrix-chat/issues"
+  },
+  "homepage": "https://github.com/Vinicius02612/matrix-chat#readme",
+  "dependencies": {
+    "@skynexui/components": "^1.23.6",
+    "next": "^12.0.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
